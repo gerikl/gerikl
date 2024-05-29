@@ -1,5 +1,5 @@
 # gerikl
-Repository with libraries created during course work by gerikl team&
+Repository with libraries created during course work by gerikl team.
 
 Example of ecd_detector usage:
 
